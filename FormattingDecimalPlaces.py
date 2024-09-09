@@ -1,3 +1,7 @@
+"""
+Programa que modifica el formato de un número dado en dos decimales
+"""
+
 def round_to_two_decimal_places(number):
     # Redondeamos el número a dos decimales
     return round(number, 2)

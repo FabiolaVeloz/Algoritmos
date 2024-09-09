@@ -1,3 +1,7 @@
+"""
+Programa que calcula cuantos litros de agua tiene que tomar un atleta en base a los km recorridos
+"""
+
 import math
 
 

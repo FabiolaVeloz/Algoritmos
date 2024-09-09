@@ -1,3 +1,7 @@
+"""
+Programa que calcula el precio de los mangos en base a la promoción específicada
+"""
+
 def mango(quantity, price_per_mango):
     # Calculamos cuántos mangos se pagan
     paid_mangoes = (quantity // 3) * 2 + (quantity % 3)

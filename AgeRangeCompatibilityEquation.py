@@ -1,3 +1,7 @@
+"""
+Programa que calcula la edad en compatibilidad para una edad ingresada
+"""
+
 import math
 
 
