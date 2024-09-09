@@ -1,9 +1,9 @@
 def find_third_angle(angle1, angle2):
     # La suma de los ángulos internos de un triángulo es siempre 180 grados
-    total_angle_sum = 180
+    angle_sum = 180
 
     # Calculamos el tercer ángulo restando los otros dos del total
-    third_angle = total_angle_sum - (angle1 + angle2)
+    third_angle = angle_sum - (angle1 + angle2)
 
     # Devolvemos el tercer ángulo
     return third_angle
